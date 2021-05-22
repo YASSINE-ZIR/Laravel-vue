@@ -11,12 +11,12 @@
                 <table class="table text-center  ">
                     <thead>
                         <tr>
-                            <th scope="col">#</th>
                             <th scope="col">image</th>
                             <th scope="col">name</th>
                             <th scope="col">description</th>
                             <th scope="col">price</th>
                             <th scope="col">category</th>
+                            <th scope="col">*</th>
                         </tr>
                     </thead>
                     <tbody >
